@@ -6,16 +6,19 @@ video quality comparator base on libvmaf and ffmpeg
 
 ## Note
 
-** software files be splitted to two 7z files because the single uplimited file size <= 25MB **
+Software files be splitted to two 7z files because the single file size is uplimited <= 25MB.
 
-Please download both hysVideoQC v0.0.2.001.7z and hysVideoQc v0.0.2.001_ffmpeg_dll.7z, 
+Please download both "hysVideoQC v0.0.2.001.7z" and "hysVideoQc v0.0.2.001_ffmpeg_dll.7z", copy all ffmpeg dll files to unziped directory hysVideoQC v0.0.2.001 before you start hysVideoQC.
 
-you should copy all ffmpeg dll files to unziped directory hysVideoQC v0.0.2.001 before you start hysVideoQC.
+Of cousre, you can download the whole 7z file from below Chinese Baidu web url. (Baidu's Pan)
 
-Of cousre, you can download the whole 7z file from below http url.(Baidu Pan)
+Please email to me, if you have good idea or meet any question.
 
-本软件是因作者平常自身工作需要，基于开源项目VMAF和FFMPEG开发的一款 QT 图形界面工具。它可用于对比转码前后的失真变化，跟踪不同参数对视频转码的影响。
-因为工具的使用者不多，可能存在一些未知的问题。希望使用的朋友多多包涵，如果使用过程中有好的建议或遇到问题，请联系作者（联系方式请参考文章尾部），先致谢！
+Thanks!
+
+基于开源项目VMAF和FFMPEG开发的一款 QT 图形界面工具。它可用于对比转码前后的失真变化，跟踪不同参数对视频转码的影响。
+因为工具的使用者不多，可能存在一些未知的问题。
+希望使用的朋友多多包涵，如果使用过程中有好的建议或遇到问题，请联系作者（联系方式请参考文章尾部），先致谢！
 
 hysVideoQC 下载地址：
 
@@ -23,7 +26,7 @@ hysVideoQC 下载地址：
 	
 	* Github    https://github.com/zymill/hysVideoQC
 
-## 功能特征
+## Features
 
 1.Reference file (源视频文件)
 ```
@@ -55,6 +58,10 @@ hysVideoQC 下载地址：
 ```
 ## Author
 
-	* 微 信: hybase (添加时请注明 hysVideoQC 或 vmaf)
-	* Email: hybase@qq.com
-	* QQ   : 23207689
+	* WebChat: hybase (添加时请注明 hysVideoQC 或 vmaf)
+	* Email  : hybase@qq.com
+	* QQ     : 23207689
+
+## blog
+
+  http://blog.csdn.net/zymill
