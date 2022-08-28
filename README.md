@@ -1,16 +1,25 @@
 # hysVideoQC
+
 video quality comparator base on libvmaf and ffmpeg
+ (video quality comparator 视频质量比较工具) 
 
-# 概述
 
-hysVideoQC (video quality comparator 视频质量比较工具) 
+## Note
+
+** software files be splitted to two 7z files because the single uplimited file size <= 25MB **
+
+Please download both hysVideoQC v0.0.2.001.7z and hysVideoQc v0.0.2.001_ffmpeg_dll.7z, 
+
+you should copy all ffmpeg dll files to unziped directory hysVideoQC v0.0.2.001 before you start hysVideoQC.
+
+Of cousre, you can download the whole 7z file from below http url.(Baidu Pan)
 
 本软件是因作者平常自身工作需要，基于开源项目VMAF和FFMPEG开发的一款 QT 图形界面工具。它可用于对比转码前后的失真变化，跟踪不同参数对视频转码的影响。
 因为工具的使用者不多，可能存在一些未知的问题。希望使用的朋友多多包涵，如果使用过程中有好的建议或遇到问题，请联系作者（联系方式请参考文章尾部），先致谢！
 
 hysVideoQC 下载地址：
 
-	* 百度网盘  https://pan.baidu.com/s/18esWF4m30fDlriKtE126KA  提取码：vmaf
+	* 百度网盘  https://pan.baidu.com/s/18esWF4m30fDlriKtE126KA  提取码(pin)：vmaf
 	
 	* Github    https://github.com/zymill/hysVideoQC
 
