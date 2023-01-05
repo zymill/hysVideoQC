@@ -8,7 +8,7 @@ video quality comparator base on libvmaf and ffmpeg
 
 Software files be splitted to two 7z files because the single file size is uplimited <= 25MB.
 
-Please download both "hysVideoQC v0.0.2.001.7z" and "hysVideoQc v0.0.2.001_ffmpeg_dll.7z", copy all ffmpeg dll files to unziped directory hysVideoQC v0.0.2.001 before you start hysVideoQC.
+Please download both "hysVideoQC v0.0.2.002.7z" and "hysVideoQc v0.0.2.001_ffmpeg_dll.7z", copy all ffmpeg dll files to unziped directory hysVideoQC v0.0.2.002 before you start hysVideoQC.
 
 Of cousre, you can download the whole 7z file from below Chinese Baidu web url. (Baidu's Pan)
 
