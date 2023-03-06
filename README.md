@@ -10,7 +10,7 @@ Software files be splitted to two 7z files because the single file size is uplim
 
 Please download both "hysVideoQC v0.0.2.002.7z" and "hysVideoQc v0.0.2.001_ffmpeg_dll.7z", copy all ffmpeg dll files to unziped directory hysVideoQC v0.0.2.002 before you start hysVideoQC.
 
-Of cousre, you can download the whole 7z file from below Chinese Baidu web url. (Baidu's Pan)
+Of course, you can download the whole 7z file from below Chinese Baidu web url. (Baidu's Pan)
 
 Please email to me, if you have good idea or meet any question.
 
@@ -32,7 +32,7 @@ hysVideoQC 下载地址：
 ```
 * Support MP4/MPEGTS/MKV/AVI/FLV/3GP/MOV/VOB/MXF/MPG/M2TS
 * Support ES files: h264/h265(suffix with.264 .265 .266 .h264 .h265 .h266) (266/h266 in future)
-* Support ES files: m2v/m4v/mpge(suffix with .m2v .m4v .mpeg)
+* Support ES files: m2v/m4v/mpeg(suffix with .m2v .m4v .mpeg)
 * Support ES files: AVS/AVS2/AVS3(suffix with .avs .avs2 .avs3)  (avs3 in future) 
 * Support ES files: VP8/VP9/AV1(suffix with .vp8 .vp9 .av1)
 * Support Raw YUV(suffix with .yuv .raw .y4m) Files
