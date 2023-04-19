@@ -3,6 +3,20 @@
 video quality comparator base on libvmaf and ffmpeg
  (video quality comparator 视频质量比较工具) 
 
+## 图示1
+![mainui](https://user-images.githubusercontent.com/18504455/233099874-25f17238-fb97-433a-b023-f7d077008842.png)
+
+## 图示2
+![mainui1](https://user-images.githubusercontent.com/18504455/233099939-d2084e2e-9796-47a9-a73a-82915d517739.png)
+
+## 图示3
+![mainui2](https://user-images.githubusercontent.com/18504455/233100052-ad1e1bee-75a3-497b-924d-b4f7eda7d01a.png)
+
+## 图示4
+![mainui3](https://user-images.githubusercontent.com/18504455/233100161-54bed100-b70b-4b5f-b1e8-d442bf3cd4b8.png)
+
+## 图示5
+![mainui4](https://user-images.githubusercontent.com/18504455/233100280-ebc0cdbf-dce5-4d29-b886-15b53ece1a9f.png)
 
 ## Note
 
