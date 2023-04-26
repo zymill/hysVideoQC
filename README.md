@@ -3,6 +3,10 @@
 video quality comparator base on libvmaf and ffmpeg
  (video quality comparator 视频质量比较工具) 
 
+## video Help guide
+
+[Video Help Guide](https://www.zhihu.com/zvideo/1547348112431271936)
+
 ## 图示1
 ![mainui](https://user-images.githubusercontent.com/18504455/233099874-25f17238-fb97-433a-b023-f7d077008842.png)
 
