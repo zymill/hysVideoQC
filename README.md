@@ -7,43 +7,6 @@ video quality comparator base on libvmaf and ffmpeg
 
 [Video Help Guide](https://www.zhihu.com/zvideo/1547348112431271936)
 
-## 图示1
-![mainui](https://user-images.githubusercontent.com/18504455/233099874-25f17238-fb97-433a-b023-f7d077008842.png)
-
-## 图示2
-![mainui1](https://user-images.githubusercontent.com/18504455/233099939-d2084e2e-9796-47a9-a73a-82915d517739.png)
-
-## 图示3
-![mainui2](https://user-images.githubusercontent.com/18504455/233100052-ad1e1bee-75a3-497b-924d-b4f7eda7d01a.png)
-
-## 图示4
-![mainui3](https://user-images.githubusercontent.com/18504455/233100161-54bed100-b70b-4b5f-b1e8-d442bf3cd4b8.png)
-
-## 图示5
-![mainui4](https://user-images.githubusercontent.com/18504455/233100280-ebc0cdbf-dce5-4d29-b886-15b53ece1a9f.png)
-
-## Note
-
-Software files be splitted to two 7z files because the single file size is uplimited <= 25MB.
-
-Please download both "hysVideoQC v0.0.2.002.7z" and "hysVideoQc v0.0.2.001_ffmpeg_dll.7z", copy all ffmpeg dll files to unziped directory hysVideoQC v0.0.2.002 before you start hysVideoQC.
-
-Of course, you can download the whole 7z file from below Chinese Baidu web url. (Baidu's Pan)
-
-Please email to me, if you have good idea or meet any question.
-
-Thanks!
-
-基于开源项目VMAF和FFMPEG开发的一款 QT 图形界面工具。它可用于对比转码前后的失真变化，跟踪不同参数对视频转码的影响。
-因为工具的使用者不多，可能存在一些未知的问题。
-希望使用的朋友多多包涵，如果使用过程中有好的建议或遇到问题，请联系作者（联系方式请参考文章尾部），先致谢！
-
-hysVideoQC 下载地址：
-
-	* 百度网盘  https://pan.baidu.com/s/18esWF4m30fDlriKtE126KA  提取码(pin)：vmaf
-	
-	* Github    https://github.com/zymill/hysVideoQC
-
 ## Features
 
 1.Reference file (源视频文件)
@@ -74,6 +37,47 @@ hysVideoQC 下载地址：
 * Support open, delete, reset reference/distortion file(s)
 * Support start/stop compare task.
 ```
+
+## Note
+
+Software files be splitted to two 7z files because the single file size is uplimited <= 25MB.
+
+Please download both "hysVideoQC v0.0.2.002.7z" and "hysVideoQc v0.0.2.001_ffmpeg_dll.7z", copy all ffmpeg dll files to unziped directory hysVideoQC v0.0.2.002 before you start hysVideoQC.
+
+Of course, you can download the whole 7z file from below Chinese Baidu web url. (Baidu's Pan)
+
+Please email to me, if you have good idea or meet any question.
+
+Thanks!
+
+
+## 图示1
+![mainui](https://user-images.githubusercontent.com/18504455/233099874-25f17238-fb97-433a-b023-f7d077008842.png)
+
+## 图示2
+![mainui1](https://user-images.githubusercontent.com/18504455/233099939-d2084e2e-9796-47a9-a73a-82915d517739.png)
+
+## 图示3
+![mainui2](https://user-images.githubusercontent.com/18504455/233100052-ad1e1bee-75a3-497b-924d-b4f7eda7d01a.png)
+
+## 图示4
+![mainui3](https://user-images.githubusercontent.com/18504455/233100161-54bed100-b70b-4b5f-b1e8-d442bf3cd4b8.png)
+
+## 图示5
+![mainui4](https://user-images.githubusercontent.com/18504455/233100280-ebc0cdbf-dce5-4d29-b886-15b53ece1a9f.png)
+
+
+基于开源项目VMAF和FFMPEG开发的一款 QT 图形界面工具。它可用于对比转码前后的失真变化，跟踪不同参数对视频转码的影响。
+因为工具的使用者不多，可能存在一些未知的问题。
+希望使用的朋友多多包涵，如果使用过程中有好的建议或遇到问题，请联系作者（联系方式请参考文章尾部），先致谢！
+
+hysVideoQC 下载地址：
+
+	* 百度网盘  https://pan.baidu.com/s/18esWF4m30fDlriKtE126KA  提取码(pin)：vmaf
+	
+	* Github    https://github.com/zymill/hysVideoQC
+
+
 ## Author
 
 	* WebChat: hybase (添加时请注明 hysVideoQC 或 vmaf)
