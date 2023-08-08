@@ -46,6 +46,10 @@ Please download both "hysVideoQC v0.0.2.004.7z" and "hysVideoQc v0.0.2.001_ffmpe
 
 Of course, you can download the whole 7z file from below Chinese Baidu web url. (Baidu's Pan)
 
+[Baidu Pan](https://pan.baidu.com/s/18esWF4m30fDlriKtE126KA) 
+
+**提取码(pin)：vmaf**
+
 Please email to me, if you have good idea or meet any question.
 
 Thanks!
