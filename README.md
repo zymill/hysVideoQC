@@ -71,10 +71,6 @@ Thanks!
 ![mainui4](https://user-images.githubusercontent.com/18504455/233100280-ebc0cdbf-dce5-4d29-b886-15b53ece1a9f.png)
 
 
-基于开源项目VMAF和FFMPEG开发的一款 QT 图形界面工具。它可用于对比转码前后的失真变化，跟踪不同参数对视频转码的影响。
-因为工具的使用者不多，可能存在一些未知的问题。
-希望使用的朋友多多包涵，如果使用过程中有好的建议或遇到问题，请联系作者（联系方式请参考文章尾部），先致谢！
-
 hysVideoQC 下载地址：
 
 	* 百度网盘  https://pan.baidu.com/s/18esWF4m30fDlriKtE126KA  提取码(pin)：vmaf
@@ -84,9 +80,5 @@ hysVideoQC 下载地址：
 
 ## Author
 
-	* WebChat: hybase (添加时请注明 hysVideoQC 或 vmaf)
 	* Email  : hybase@qq.com
 
-## blog
-
-  http://blog.csdn.net/zymill
