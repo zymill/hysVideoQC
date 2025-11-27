@@ -38,19 +38,6 @@ video quality comparator base on libvmaf and ffmpeg
 * Support start/stop compare task.
 ```
 
-## Note
-
-Software files be splitted to two 7z files because the single file size is uplimited <= 25MB.
-
-Please download both "hysVideoQC v0.0.2.004.7z" and "hysVideoQc v0.0.2.001_ffmpeg_dll.7z", copy all ffmpeg dll files to unziped directory hysVideoQC v0.0.2.004 before you start hysVideoQC.
-
-Of course, you can download the whole 7z file from below Chinese Baidu web url. (Baidu's Pan)
-
-Please email to me, if you have good idea or meet any question.
-
-Thanks!
-
-
 ## 图示1
 ![mainui](https://user-images.githubusercontent.com/18504455/233099874-25f17238-fb97-433a-b023-f7d077008842.png)
 
@@ -80,9 +67,24 @@ hysVideoQC 下载地址：
 
 ## Author
 
-	* WebChat: hybase (添加时请注明 hysVideoQC 或 vmaf)
-	* Email  : hybase@qq.com
+  * 知乎 (Chinese)：[https://www.zhihu.com/people/zymill]
 
-## blog
+  * WebChat: wybase (添加时请注明 hysVideoQC 或 vmaf)
 
-  http://blog.csdn.net/zymill
+  * Email  : hybase@qq.com
+
+## 支持和赞赏
+
+ * 如果您愿意支持本软件的长期发展，可以通过微信赞赏。谢谢！（若赞赏额超出授权注册费用，请告知作者，以便作者及时提供授权码）
+
+<center class="half">
+    <img src="image/zs.jpg" width="480"/>
+</center>
+
+## Links
+
+1. [TS流分析专栏](https://cloud.tencent.com/developer/column/105278)
+
+2. [flvAnalyser综述](https://cloud.tencent.com/developer/article/2344723)
+  
+3. [hysAnalyser综述](https://cloud.tencent.com/developer/article/2517652)
